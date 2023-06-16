@@ -8,8 +8,7 @@ El Proyecto es una API RESTfull basado en Spring Boot que proporciona la gestió
 - Java
 - Spring Boot
 - MySQL
-- Swagger
-- Actuator
+- Docker
 
 
 
@@ -27,8 +26,9 @@ El Proyecto es una API RESTfull basado en Spring Boot que proporciona la gestió
 ## Uso
 
 Para saber el uso completo esta disponible la url de Swagger `http://localhost:8080/doc/swagger-ui/index.html`
+Para ver las metricas con actuator metodo `GET` `http://localhost:8080/actuator/metrics/http.server.requests`
 
-### Endpoint 1
+### Endpoint Crear
 
 - **URL**: `http://localhost:8080/users/`
 - **Método**: `POST`
