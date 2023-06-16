@@ -15,7 +15,7 @@ El Proyecto es una API RESTfull basado en Spring Boot que proporciona la gestió
 
 ## Configuración
 
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona el repositorio: `git clone https://github.com/cristopherSaldanaY/Project-Java-Fundamentals-users.git`
 2. Abre el proyecto en tu IDE favorito.
 3. Configura las propiedades de la aplicación según tus necesidades en el archivo `application.properties`.
 4. Ejecutar desde el terminal el `docker compose up -d` para levantar el contenedor con mysql
